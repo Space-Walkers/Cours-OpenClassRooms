@@ -1,0 +1,1 @@
+plateformes_sociales = ["Facebook", "Instagram", "Snapchat", "Twitter"]
